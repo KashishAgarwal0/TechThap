@@ -1,6 +1,3 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/5ce0af63-8fe8-406f-ad7a-6d0b0625df13" alt="TheGram" width="600"/></p>
-
-# <img src="https://github.com/user-attachments/assets/67594d95-a0ef-4585-b5e2-f28c38ab2f6d" alt="TheGram" width="30"/> TheGram 
 
 
 TheGram is a social media platform social media platform that offers a range of modern features, including a vibrant home content feed, user authentication, and real-time messaging powered by Socket.IO. (Notifications button is only for display)
