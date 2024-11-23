@@ -13,7 +13,6 @@ If you're interested, you can try building additional features like the Explore 
 
 Please note that if you're accessing the website, it may take a moment to load since it can be spun down with inactivity.
 
-## Installation
 
 Installation is needed in both frontend and backend folders using command
 
